@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  margin: 100px;
+}
+body {
+  background: black;
+}
+h3 {
+  color: rgb(38, 150, 242);
+  padding: 10px;
+  font-size: 50px;
+  font-family: monospace;
+  align-items: center;
+}
+.form-control {
+  margin-top: 10px;
+  width: 500px;
+  height: 50px;
+  padding: 3px;
+  font-size: 30px;
+  background-color: black;
+  border-color: black;
+  border-radius: 7px;
+}
+input:focus {
+  outline: none;
+  border-bottom-color: rgb(38, 150, 242);
+  border-width: 3px;
+  border-style: solid;
+  color: rgb(255, 129, 83);
+}
+.card {
+  color: grey;
+  font-size: 30px;
+  background-color: rgb(43, 43, 43);
+  margin: 7px;
+  width: 600px;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: cursive;
+}
+.tct {
+  color: rgb(38, 150, 242);
+}
+.hi {
+  color: rgb(201, 197, 200);
+}
